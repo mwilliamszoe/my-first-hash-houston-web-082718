@@ -5,7 +5,8 @@ def my_hash
 end
 
 
-def shipping_manifest = {
+def shipping_manifest 
+  the_manifest = {
   "whales" => 5,
   "vases" => 2,
   "paintings" =>3, 
